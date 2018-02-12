@@ -1,7 +1,5 @@
 ### Guessing game
 
----
-⚠️ DO NOT SUBMIT PRS WITH SOLUTIONS TO THIS REPO ⚠️
 
 ### Description
 
